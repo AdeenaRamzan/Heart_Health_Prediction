@@ -19,6 +19,7 @@ This project is a Streamlit web app that predicts the likelihood of heart diseas
 ├── scaler.pkl          # Scaler used for feature normalization  
 ├── columns.pkl         # Expected feature columns after preprocessing  
 ├── app.py              # Streamlit app  
+├── requirements.txt    # Dependencies
 ├── heart_disease.ipynb # Jupyter Notebook for data analysis & model training   
 └── README.md           # Project documentation  
 
